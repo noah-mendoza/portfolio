@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="styles.css">
+  <nav id="navbar">
+    <a class="navlink" href="#">Contact</a>
+    <a class="navlink" href="#">Work</a>
+    <a class="navlink" href="#greeting">About</a>
+  </nav>
+  <section id="welcome-section">
+    <img src="https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+    <h1 id="greeting">Hello, My Name is Noah!</h>
+    <p id="subtext">Creative Marketer/Web Developer</p>
+    <p id="flex">I made this website from scratch using HTML + CSS</p>
+    </section>
+  <section id="projects">
+    <h1 id="some">Here are some of my projects</h1>
+    <div class="project-tile">
+      <div class="coding-projects"></div>
+      <div class="coding-projects"></div>
+      <div class="coding-projects"></div>
+    </div>
+    <a target="_blank" id="profile-link" href="#">My Profile</a>
+    </section>
+  </html>
